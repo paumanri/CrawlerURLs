@@ -4,3 +4,6 @@
 
 2. Instal·lem Selenium i Requests. <br/>
    ![image](https://github.com/user-attachments/assets/66c3ef92-1798-4a27-a63e-003c8c2d7feb)
+
+3. Descarreguem el Chrome Driver i descomprimim el fitxer. Ara que ja tenim l'executable chrome.exe, ja podem començar el desenvolupament del projecte.
+   
