@@ -8,3 +8,6 @@
 3. Descarreguem el Chrome Driver i descomprimim el fitxer. Ara que ja tenim l'executable chrome.exe, ja podem començar el desenvolupament del projecte.
    
 4. Creem el fitxer python crawler.py, separat en les tres fases per a poder anar comprovant el seu funcionament en porcions més petites. Quan les tres parts funcionen, ja tenim la lògica del crawler implementada.
+
+5. Per a la vista HTML, instal·lem la llibreria de Python "Flask". <br/>
+   ![image](https://github.com/user-attachments/assets/64da97a5-be30-47f5-9eae-6ae9aa490119)
