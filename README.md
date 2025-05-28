@@ -11,3 +11,9 @@
 
 5. Per a la vista HTML, instal·lem la llibreria de Python "Flask". <br/>
    ![image](https://github.com/user-attachments/assets/64da97a5-be30-47f5-9eae-6ae9aa490119)
+
+6. Creem el fitxer app.py, que serà l'aplicació Flask amb la interfície web.
+
+7. I seguidament creem la plantilla HTML per a la vista amb el formulari (templates/index.html).
+
+8. 
