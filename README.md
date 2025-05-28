@@ -16,4 +16,11 @@
 
 7. I seguidament creem la plantilla HTML per a la vista amb el formulari (templates/index.html).
 
-8. 
+8. En pic tenim tot muntat, i dins de l'entorn virtual, fem córrer l'aplicació flask en localhost. Entrem al navegador (en el meu cas, chrome) i provem si funciona omplint el formulari amb una URL. Se'ns obrirà directament el chromedriver i anirà carregant totes les URLs que trobi en la pàgina web determinada. <br/>
+   ![image](https://github.com/user-attachments/assets/3b2a27a6-ce7c-4eab-a617-a9375a45a199)
+   ![image](https://github.com/user-attachments/assets/33701ae9-ed24-4819-95db-fdb873d60111)
+   
+
+
+
+10. Quan trobi un enllaç que porti a un error 4XX, crearà un fitxer local de tipus CSV, on s'aguardaran les URLs que donen els errors 4XX (errors.csv com a exemple d'una prova feta a )
