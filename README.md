@@ -20,7 +20,4 @@
    ![image](https://github.com/user-attachments/assets/3b2a27a6-ce7c-4eab-a617-a9375a45a199)
    ![image](https://github.com/user-attachments/assets/33701ae9-ed24-4819-95db-fdb873d60111)
    
-
-
-
-10. Quan trobi un enllaç que porti a un error 4XX, crearà un fitxer local de tipus CSV, on s'aguardaran les URLs que donen els errors 4XX (errors.csv com a exemple d'una prova feta a )
+10. Quan hagi acabat de revisar totes les URLs, i en cas que trobi un enllaç que porti a un error 4XX, crearà un fitxer local de tipus CSV, on s'aguardaran les URLs que donen els errors 4XX (anomenat errors.csv, es crearà en la carpeta on tingueu el projecte).
